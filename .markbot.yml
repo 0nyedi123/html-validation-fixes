@@ -5,6 +5,8 @@ inherit:
   - naming-restrict-live
   - git-2
   - html
+  - html-good-semantics
+  - aria-landmarks
 
 html:
   - path: "index.html"
